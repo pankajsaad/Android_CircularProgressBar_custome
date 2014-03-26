@@ -1,6 +1,6 @@
 package com.example.progressbar;
 
-import com.example.barcoe_demo.R;
+import com.example.progressbar.R;
 
 import android.os.Bundle;
 import android.app.Activity;
